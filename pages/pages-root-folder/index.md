@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: https://www.youtube.com/channel/UCoHys8OTcSoGW2NRU0dZ3nA
+  text: Youtube
   style: alert
 permalink: /index.html
 #
