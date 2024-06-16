@@ -6,7 +6,7 @@ subheadline         : " "
 teaser              : "音樂製作人"
 header:
    image_fullwidth  : "Main.jpg"
-permalink           : "/Getting-Started/"
+permalink           : "/GETTING-STARTED/"
 ---
 1. 以音樂人為目標 持續努力中
 1. 吉他手 貝斯手
