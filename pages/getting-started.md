@@ -6,8 +6,9 @@ subheadline         : " "
 teaser              : "音樂製作人"
 header:
    image_fullwidth  : "Main.jpg"
-permalink           : "/GETTING-STARTED/"
+permalink           : "/getting-started/"
 ---
+
 1. 以音樂人為目標 持續努力中
 1. 吉他手 貝斯手
 1. 日裔台灣人
@@ -15,6 +16,3 @@ permalink           : "/GETTING-STARTED/"
 1. Logic FL使用者
 1. 以Vocaloid為中心創作中
 
-
-
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
