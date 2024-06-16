@@ -11,10 +11,10 @@
 title: 'Teni'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: 'Teni Music Studio'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
+description: 'Anything Music.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -167,7 +167,7 @@ apple-touch-icon-114x114-precomposed : 'apple-touch-icon-114x114-precomposed.png
 apple-touch-icon-76x76-precomposed   : 'apple-touch-icon-76x76-precomposed.png'
 apple-touch-icon-72x72-precomposed   : 'apple-touch-icon-72x72-precomposed.png'
 apple-touch-icon-precomposed         : 'apple-touch-icon-precomposed.png'
-msapplication_tileimage              : 'msapplication_tileimage.png'               # Size 144x144
+msapplication_tileimage              : 'apple-touch-icon-114x114-precomposed.png'               # Size 144x144
 msapplication_tilecolor              : '#fabb00'
 
 
